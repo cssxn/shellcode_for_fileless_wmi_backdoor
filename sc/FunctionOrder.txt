@@ -1,0 +1,7 @@
+?entry@@YAXXZ
+?MemZero@@YAXPAEH@Z
+?GetKernelBase@@YAPAUHINSTANCE__@@XZ
+?Hash_CmpString@@YA_NPADH@Z
+?GetFuncAddrForwared@@YAHKHPAUHINSTANCE__@@@Z
+?GetFunAddrByHash@@YAHHPAUHINSTANCE__@@@Z
+?putStringInClass@@YAHPAUIWbemClassObject@@PA_W1W4tag_CIMTYPE_ENUMERATION@@@Z

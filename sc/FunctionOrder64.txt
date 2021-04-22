@@ -1,0 +1,3 @@
+?GetFunAddrByHash@@YA_KHPEAUHINSTANCE__@@@Z
+?Hash_CmpString@@YA_NPEADH@Z
+?entry@@YAXXZ 
